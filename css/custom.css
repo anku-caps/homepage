@@ -1,0 +1,29 @@
+
+body {
+	padding-top: 50px;
+	padding-bottom: 20px; 
+}
+
+.jumbotron h1 {
+margin-top: 0px;
+margin-bottom: 50px;
+color: white;
+font-family: 'Beth Ellen';
+font-size: 70px;
+}
+
+.jumbotron p {
+margin-bottom: 30px;
+color:white;
+font-family: 'Beth Ellen';
+font-size: 20px;
+}
+
+
+.jumbotron {
+ text-align: center;
+ background-image: url('../image/boks.jpg');
+}
+
+
+
